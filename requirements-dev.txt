@@ -1,0 +1,3 @@
+# Local package checks only. Notebook execution happens in Databricks.
+nbformat==5.10.4
+sqlglot>=27,<31
